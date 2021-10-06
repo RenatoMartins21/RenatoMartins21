@@ -1,8 +1,8 @@
 ![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=radical))]
-[![Rens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical))]
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=radical)
+![Rens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical)
+![Uni Card1](https://github-readme-stats.vercel.app/api/pin/?username=RenatoMartins21&repo=BNU-CO452/bluej-apps21-Renato-Martins)
+![Uni Card2](https://github-readme-stats.vercel.app/api/pin/?username=RenatoMartins21&repo=BNU-CO452/github-fundamentals-CyberSoldierUK)
 <!--
 **RenatoMartins21/RenatoMartins21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
