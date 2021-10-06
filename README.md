@@ -1,9 +1,6 @@
 ![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=radical)
 ![Rens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical)
-![Uni Card1](https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=bluej-apps21-Renato-Martins&theme=radical)
-![Uni Card2](https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=github-fundamentals-CyberSoldierUK&theme=radical)
-
 
 
 
