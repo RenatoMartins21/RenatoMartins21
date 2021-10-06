@@ -1,4 +1,4 @@
-<a href="https://github.com/RenatoMartins21" target="_blank"><img src="https://i.imgur.com/1oGMQd9.gif" /></a>
+<a href="https://github.com/RenatoMartins21" target="_blank"><img src="https://i.imgur.com/GwbrRv7.gif" /></a>
 
 <p align="center">
   <a href="http://twitter.com/dark_the_bot">
