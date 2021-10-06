@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://twitter.com/dark_the_bot">
-    <img src="https://img.shields.io/twitter/follow/dark_the_bot?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/cocoapods/p/Windows%20%7C%20Linux%20%7C%20iPadOS%20%7C%20IOS?style=plastic?label=OS&logo=twitter" />
   </a>
   <a href="https://discord.com/invite/EmqJh3s2Z7">
     <img src="https://img.shields.io/discord/881254479813554216?logo=discord&style=for-the-badge&color=blue" />
