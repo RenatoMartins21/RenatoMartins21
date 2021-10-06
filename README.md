@@ -1,7 +1,8 @@
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=RenatoMartins21&theme=radical"
-/>
+![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)]
+[![Rens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21)]
+
+
 <!--
 **RenatoMartins21/RenatoMartins21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
