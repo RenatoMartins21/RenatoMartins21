@@ -1,4 +1,7 @@
-![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=radical&include_all_commits)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=radical&include_all_commits" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoMartins21&theme=radical" />
+</p>
 
 ![Rens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical)
 
