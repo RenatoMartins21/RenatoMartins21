@@ -6,14 +6,14 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMartins21&langs_count=4&theme=radical&layout=compact" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical" />
 </p>
-
-
-<a href="https://github.com/BNU-CO452/github-fundamentals-CyberSoldierUK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=github-fundamentals-CyberSoldierUK&theme=radical" />
-</a>
-<a href="https://github.com/BNU-CO452/bluej-apps21-Renato-Martins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=bluej-apps21-Renato-Martins&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/BNU-CO452/github-fundamentals-CyberSoldierUK">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=github-fundamentals-CyberSoldierUK&theme=radical" />
+  </a>
+  <a href="https://github.com/BNU-CO452/bluej-apps21-Renato-Martins">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=bluej-apps21-Renato-Martins&theme=radical" />
+  </a>
+</p>
 
 
 <!--
