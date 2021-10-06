@@ -1,4 +1,13 @@
 <p align="center">
+  <a href="http://twitter.com/dark_the_bot">
+    <img src="https://img.shields.io/twitter/follow/dark_the_bot?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://discord.com/invite/EmqJh3s2Z7">
+    <img src="https://img.shields.io/discord/881254479813554216?logo=discord&style=for-the-badge&color=blue" />
+  </a>
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=radical&include_all_commits" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoMartins21&theme=radical" />
 </p>
