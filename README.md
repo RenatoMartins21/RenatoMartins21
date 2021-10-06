@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" />
