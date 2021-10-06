@@ -10,6 +10,27 @@
 </p>
 
 <p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=radical&include_all_commits" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoMartins21&theme=radical" />
 </p>
