@@ -4,10 +4,10 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BNU-CO452/bluej-apps21-Renato-Martins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=bluej-apps21-Renato-Martins&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/BNU-CO452/github-fundamentals-CyberSoldierUK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=github-fundamentals-CyberSoldierUK&theme=radical" />
 </a>
 
