@@ -1,4 +1,4 @@
-![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=radical)
+![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=radical&include_all_commits)
 
 ![Rens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical)
 
