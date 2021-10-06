@@ -1,14 +1,32 @@
+<!-- Image -->
 <a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/image.gif?raw=true" /></a>
 
+<!-- Socials -->
 <p align="center">
-  <a href="http://twitter.com/dark_the_bot">
-    <img src="https://img.shields.io/cocoapods/p/Windows%20%7C%20Linux%20%7C%20iPadOS%20%7C%20IOS?style=plastic?label=OS&logo=twitter" />
-  </a>
   <a href="https://discord.com/invite/EmqJh3s2Z7">
     <img src="https://img.shields.io/discord/881254479813554216?logo=discord&style=for-the-badge&color=blue" />
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/hagrid.fat_jesus-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
 
+<!-- Languages -->
 <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,6 +48,45 @@
   </a>
 </p>
 
+<!-- Frameworks/Libraries/Platforms -->
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+</p>
+
+<!-- Apps -->
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  </a>
+</p>
+
+<!-- Profile Stats -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=radical&include_all_commits" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoMartins21&theme=radical" />
@@ -46,19 +103,3 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=bluej-apps21-Renato-Martins&theme=radical" />
   </a>
 </p>
-
-
-<!--
-**RenatoMartins21/RenatoMartins21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
