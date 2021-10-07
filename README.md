@@ -55,7 +55,8 @@
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
   </a>
 </p>
-
+<!-- ImageLang -->
+<a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/Lang.gif?raw=true" /></a>
 <!-- Languages -->
 <p align="center">
   <a href="">
