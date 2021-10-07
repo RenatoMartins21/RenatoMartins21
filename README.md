@@ -128,7 +128,8 @@
     <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
   </a>
 </p>
-
+<!-- ImageGames -->
+<a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/Games.gif?raw=true" /></a>
 <!-- Gaming -->
 <p align="center">
   <a href="">
