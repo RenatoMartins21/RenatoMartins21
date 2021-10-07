@@ -77,9 +77,6 @@
   <a href="">
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   </a>
-</p>
-<!-- Frameworks/Libraries/Platforms -->
-<p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
