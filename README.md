@@ -10,19 +10,19 @@
   <a href="">
     <img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://www.facebook.com/CyberSoldierUK">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/hagrid.fat_jesus/">
     <img src="https://img.shields.io/badge/Insta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://www.snapchat.com/add/darkthebot">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />
+  </a>
+  <a href="mailto:ren.lsm@pm.me">
     <img src="https://img.shields.io/badge/Proton-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  <a href="">
+  <a href="https://open.spotify.com/user/9vgm6eivl6umpxrbww6i1u0ys?si=82804caaebde43c4">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
