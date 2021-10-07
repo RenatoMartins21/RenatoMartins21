@@ -1,6 +1,7 @@
 <!-- Image -->
 <a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/image.gif?raw=true" /></a>
-
+<!-- ImageSocial -->
+<a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/Socials.gif?raw=true" /></a>
 <!-- Socials -->
 <p align="center">
   <a href="https://discord.com/invite/EmqJh3s2Z7">
