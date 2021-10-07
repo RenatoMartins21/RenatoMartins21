@@ -26,7 +26,8 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
+<!-- ImageOS -->
+<a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/OS.gif?raw=true" /></a>
 <!-- OS -->
 <p align="center">
   <a href="">
@@ -54,7 +55,8 @@
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
   </a>
 </p>
-
+<!-- ImageLang -->
+<a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/Lang.gif?raw=true" /></a>
 <!-- Languages -->
 <p align="center">
   <a href="">
