@@ -78,7 +78,6 @@
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   </a>
 </p>
-
 <!-- Frameworks/Libraries/Platforms -->
 <p align="center">
   <a href="">
@@ -100,7 +99,8 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
 </p>
-
+<!-- ImageApps -->
+<a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/Apps.gif?raw=true" /></a>
 <!-- Apps -->
 <p align="center">
   <a href="">
