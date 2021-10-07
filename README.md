@@ -158,7 +158,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoMartins21&theme=radical" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMartins21&langs_count=4&theme=radical&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMartins21&langs_count=8&theme=radical&layout=compact" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical" />
 </p>
 <p align="center">
