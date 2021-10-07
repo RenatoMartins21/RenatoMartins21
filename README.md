@@ -7,9 +7,6 @@
   <a href="https://discord.com/invite/EmqJh3s2Z7">
     <img src="https://img.shields.io/discord/881254479813554216?logo=discord&style=for-the-badge&color=blue" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" />
-  </a>
   <a href="https://www.facebook.com/CyberSoldierUK">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
@@ -24,6 +21,9 @@
   </a>
   <a href="https://open.spotify.com/user/9vgm6eivl6umpxrbww6i1u0ys?si=82804caaebde43c4">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://gitviews.000webhostapp.com">
+    <img src="https://gitviews.000webhostapp.com" />
   </a>
 </p>
 <!-- ImageOS -->
