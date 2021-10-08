@@ -155,14 +155,14 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=radical&include_all_commits" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RenatoMartins21&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenatoMartins21&show_icons=true&theme=github_dark&include_all_commits" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RenatoMartins21&theme=github_dark&date_format=j%20M%5B%20Y%5D" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMartins21&langs_count=8&theme=radical&layout=compact" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&langs_count=8&theme=radical&layout=compact&v=2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMartins21&langs_count=8&theme=github_dark&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&langs_count=8&theme=github_dark&layout=compact&v=2" />
 </p>
 <p align="center">
-  <a href="https://github.com/BNU-CO452/github-fundamentals-CyberSoldierUK"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=github-fundamentals-CyberSoldierUK&theme=radical" /></a>
-  <a href="https://github.com/BNU-CO452/bluej-apps21-Renato-Martins"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=bluej-apps21-Renato-Martins&theme=radical" /></a>
+  <a href="https://github.com/BNU-CO452/github-fundamentals-CyberSoldierUK"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=github-fundamentals-CyberSoldierUK&theme=github_dark" /></a>
+  <a href="https://github.com/BNU-CO452/bluej-apps21-Renato-Martins"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=bluej-apps21-Renato-Martins&theme=github_dark" /></a>
 </p>
