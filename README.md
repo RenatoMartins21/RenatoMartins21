@@ -160,7 +160,7 @@
 </p>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMartins21&langs_count=8&theme=radical&layout=compact" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical&v=2 />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RenatoMartins21&theme=radical&v=2" />
 </p>
 <p align="center">
   <a href="https://github.com/BNU-CO452/github-fundamentals-CyberSoldierUK"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=github-fundamentals-CyberSoldierUK&theme=radical" /></a>
