@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=DAGGERSQUARE&color=%2300A2FF&size=120&center=true&vCenter=true&width=1884&height=120&lines=Welcome+to+my+profile" />
 </a>
 <p align="center">
-  <a href="https://discord.c99.nl/widget/theme-3/767408405643788318.png">
-    <img src="https://discord.c99.nl/widget/theme-3/767408405643788318.png" />
+  <a href="https://discord.c99.nl/widget/theme-4/767408405643788318.png">
+    <img src="https://discord.c99.nl/widget/theme-4/767408405643788318.png" />
   </a>
 </p>
 <!-- ImageSocial -->
