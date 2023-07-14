@@ -31,8 +31,8 @@
   <a href="https://open.spotify.com/user/9vgm6eivl6umpxrbww6i1u0ys?si=82804caaebde43c4">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=RenatoMartins21&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=RenatoMartins21&style=for-the-badge" />
+  <a href="https://komarev.com/ghpvc/?username=RenatoMartins21&style=for-the-badge&label=VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=RenatoMartins21&style=for-the-badge&label=VIEWS" />
   </a>
 </p>
 <!-- ImageOS -->
