@@ -13,8 +13,8 @@
 <a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/Socials.gif?raw=true" /></a>
 <!-- Socials -->
 <p align="center">
-  <a href="https://discord.com/invite/EmqJh3s2Z7">
-    <img src="https://img.shields.io/discord/881254479813554216?logo=discord&style=for-the-badge&color=blue" />
+  <a href="https://discord.com/invite/MP6PFUKRJd">
+    <img src="https://img.shields.io/discord/955203317062053971?logo=discord&style=for-the-badge&color=blue" />
   </a>
   <a href="https://www.facebook.com/CyberSoldierUK">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
